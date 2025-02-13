@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NWSeminar5": {
+      "commandName": "Project",
+      "commandLineArgs": "server "
+    }
+  }
+}
